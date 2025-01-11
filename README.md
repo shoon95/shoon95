@@ -1,8 +1,10 @@
-## Hi there 👋 I am Backend Developer
+## <div align=center>Hi there 👋 I am Backend Developer</div>
 
-<div align=center>긍정과 즐거움이 선한 영향력을 만든다고 굳게 믿습니다.
-<br>
-저의 고민과 코드, 서비스가 다른 사람들에게도 즐거움과 영감을 주기를 바랍니다.</div>
+<div align="center" style="font-size: 20px; font-weight: bold;">
+    긍정과 즐거움이 선한 영향력을 만든다고 믿습니다.<br>
+    저의 고민과 코드, 서비스가<br>
+    다른 사람들에게도 즐거움과 영감을 주길 바랍니다.
+</div>
 
 
 <!--
