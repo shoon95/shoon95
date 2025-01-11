@@ -47,11 +47,29 @@
 
 </div>
 
+<div align="center"> 
+    
 ##### Data
+
+</div>
+
+<div align="center"> 
+    
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=square&logo=Pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/Numpy-013243?style=square&logo=Numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit%20learn-F7931E?style=square&logo=Scikit-learn&logoColor=white) ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=square&logo=Pytorch&logoColor=white)
 
+</div>
+
+<div align="center"> 
+    
 ##### Infra
+
+</div>
+
+<div align="center"> 
+    
 ![Git](https://img.shields.io/badge/Git-%F05032.svg?style=square&logo=git&logoColor=white) <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=square&logo=docker&logoColor=white"> ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=square&logo=AWS&logoColor=white) ![AWS-cloudwatch](https://img.shields.io/badge/AWS%20CloudWatch-FF4f8b.svg?style=square&logo=amazoncloudwatch&logoColor=white) ![AWS-sns](https://img.shields.io/badge/AWS%20SNS-FF4f8b.svg?style=square&logo=amazonsimpleemailservice&logoColor=white) ![AWS-Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?style=square&logo=awslambda&logoColor=white) ![AWS-fargate](https://img.shields.io/badge/AWS%20Fargate-FF9900.svg?style=square&logo=awsfargate&logoColor=white) ![AWS-ec2](https://img.shields.io/badge/AWS%20EC2-FF9900.svg?style=square&logo=amazonec2&logoColor=white) ![AWS ALB](https://img.shields.io/badge/AWS%20ALB-8c4fff.svg?style=square&logo=awselasticloadbalancing&logoColor=white) ![AWS Action](https://img.shields.io/badge/Git%20Action-2088ff.svg?style=square&logo=githubactions&logoColor=white) ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=square&logo=Spring&logoColor=white) ![Eureka](https://img.shields.io/badge/Eureka-6DB33F?style=square&logo=Spring&logoColor=white)
+
+</div>
 
 ## Projects
 |Period|Name|Description|Role|Link|
