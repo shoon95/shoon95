@@ -1,6 +1,9 @@
 ## Hi there 👋 I am Backend Developer
-<center>긍정과 즐거움이 선한 영향력을 만든다고 믿는 백엔드 개발자입니다.</center>
-개발을 하며 늘 긍정적인 마음으로 즐기는 태도를 유지하려고 노력합니다. 언어와 프레임워크는 저에게 장난감 같은 도구입니다. 특정 기술에 얽매이기보다, 다양한 상황에서 자유롭게 꺼내 쓰며 문제를 해결하는 즐거움을 느낍니다. 제가 작성한 코드가 다른 사람들에게도 즐거움과 영감을 주기를 바랍니다.
+
+긍정과 즐거움이 선한 영향력을 만든다고 굳게 믿습니다.
+<br>
+저의 고민과 코드, 서비스가 다른 사람들에게도 즐거움과 영감을 주기를 바랍니다.
+
 
 <!--
 **shoon95/shoon95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
