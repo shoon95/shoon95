@@ -22,8 +22,7 @@
 
 
     
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=square&logo=Spring&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=square&logo=Django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=square&logo=Flask&logoColor=white) 
-
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=square&logo=Spring&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=square&logo=Django&logoColor=white) 
 
 
 ##### Frontend
