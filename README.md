@@ -14,8 +14,7 @@
 ##### Language 
     
 
-![Java](https://img.shields.io/badge/Java17-%23ED8B00.svg?style=square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3776AB?style=square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=square&logo=R&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=square&logo=JavaScript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=square&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=square&logo=CSS3&logoColor=white)
-
+![Java](https://img.shields.io/badge/Java17-%23ED8B00.svg?style=square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3776AB?style=square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=square&logo=R&logoColor=white) 
 
      
 ##### Backend
@@ -41,7 +40,7 @@
 ##### Infra
 
     
-![Git](https://img.shields.io/badge/Git-%F05032.svg?style=square&logo=git&logoColor=white) <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=square&logo=docker&logoColor=white"> ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=square&logo=AWS&logoColor=white) ![AWS-cloudwatch](https://img.shields.io/badge/AWS%20CloudWatch-FF4f8b.svg?style=square&logo=amazoncloudwatch&logoColor=white) ![AWS-sns](https://img.shields.io/badge/AWS%20SNS-FF4f8b.svg?style=square&logo=amazonsimpleemailservice&logoColor=white) ![AWS-Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?style=square&logo=awslambda&logoColor=white) ![AWS-fargate](https://img.shields.io/badge/AWS%20Fargate-FF9900.svg?style=square&logo=awsfargate&logoColor=white) ![AWS-ec2](https://img.shields.io/badge/AWS%20EC2-FF9900.svg?style=square&logo=amazonec2&logoColor=white) ![AWS ALB](https://img.shields.io/badge/AWS%20ALB-8c4fff.svg?style=square&logo=awselasticloadbalancing&logoColor=white) ![AWS Action](https://img.shields.io/badge/Git%20Action-2088ff.svg?style=square&logo=githubactions&logoColor=white) ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=square&logo=Spring&logoColor=white) ![Eureka](https://img.shields.io/badge/Eureka-6DB33F?style=square&logo=Spring&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%F05032.svg?style=square&logo=git&logoColor=white) <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=square&logo=docker&logoColor=white"> ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=square&logo=AWS&logoColor=white) ![Git Action](https://img.shields.io/badge/Git%20Action-2088ff.svg?style=square&logo=githubactions&logoColor=white) ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=square&logo=Spring&logoColor=white) ![Eureka](https://img.shields.io/badge/Eureka-6DB33F?style=square&logo=Spring&logoColor=white)
 
 
 ## Projects
