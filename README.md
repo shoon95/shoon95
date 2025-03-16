@@ -46,7 +46,7 @@
 ## Projects
 |Period|Name|Description|Role|Link|
 |------|----|-----------|----|----|
-|2025.02 ~ 현재|MOS|스터디 모집과 진행을 한 곳에서|기획, 백엔드, 인프라 구축|[Link](https://github.com/shoon95/mos_backend)|
+|2025.02 ~ 현재|MOS|스터디 모집과 진행을 한 곳에서|기획, 백엔드, CICD 인프라 구축|[Link](https://github.com/shoon95/mos_backend)|
 |2024.09 ~ 2024.10|QueueTicket|대용량 트래픽과 동시성 문제를 고려한 티켓팅 서비스|백엔드, CICD 인프라 구축|[Link](https://github.com/QueueTicket)|
 |2024.09 ~ 2024.09|PljHub|물류 서비스|백엔드, MSA 구축|[Link](https://github.com/pljHub)|
 |2024.08 ~ 2024.09|시켜조|배달 주문 서비스|백엔드, CICD 구축|[Link](https://github.com/Sikyozo/Sikyozo_Backend)|
