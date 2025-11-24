@@ -35,7 +35,7 @@
 ![Git](https://img.shields.io/badge/Git-%F05032.svg?style=square&logo=git&logoColor=white) 
 <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=square&logo=docker&logoColor=white"> 
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=square&logo=AWS&logoColor=white) 
-![Git Action](https://img.shields.io/badge/Git%20Action-2088ff.svg?style=square&logo=githubactions&logoColor=white) 
+![Github Action](https://img.shields.io/badge/Github%20Action-2088ff.svg?style=square&logo=githubactions&logoColor=white) 
 ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=square&logo=Spring&logoColor=white) 
 ![Eureka](https://img.shields.io/badge/Eureka-6DB33F?style=square&logo=Spring&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=square&logo=Terraform&logoColor=white)
