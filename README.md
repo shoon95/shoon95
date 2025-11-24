@@ -12,35 +12,33 @@
 
     
 ##### Language 
-    
+![Java](https://img.shields.io/badge/Java17-%23ED8B00.svg?style=square&logo=openjdk&logoColor=white) 
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=square&logo=Kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=square&logo=python&logoColor=white) 
+![R](https://img.shields.io/badge/R-276DC3?style=square&logo=R&logoColor=white) 
 
-![Java](https://img.shields.io/badge/Java17-%23ED8B00.svg?style=square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3776AB?style=square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=square&logo=R&logoColor=white) 
-
-     
 ##### Backend
-
-
-    
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=square&logo=Spring&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=square&logo=Django&logoColor=white) 
-
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=square&logo=Spring&logoColor=white) 
+![Django](https://img.shields.io/badge/Django-092E20?style=square&logo=Django&logoColor=white) 
 
 ##### Frontend
-
-
-    
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=square&logo=Svelte&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=square&logo=Vue.js&logoColor=white)
-
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=square&logo=Svelte&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=square&logo=Vue.js&logoColor=white)
 
 ##### Data
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=square&logo=Pandas&logoColor=white) 
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=square&logo=Numpy&logoColor=white) 
+![Scikit-learn](https://img.shields.io/badge/Scikit%20learn-F7931E?style=square&logo=Scikit-learn&logoColor=white) 
+![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=square&logo=Pytorch&logoColor=white)
 
-    
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=square&logo=Pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/Numpy-013243?style=square&logo=Numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit%20learn-F7931E?style=square&logo=Scikit-learn&logoColor=white) ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=square&logo=Pytorch&logoColor=white)
-
-    
 ##### Infra
-
-    
-![Git](https://img.shields.io/badge/Git-%F05032.svg?style=square&logo=git&logoColor=white) <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=square&logo=docker&logoColor=white"> ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=square&logo=AWS&logoColor=white) ![Git Action](https://img.shields.io/badge/Git%20Action-2088ff.svg?style=square&logo=githubactions&logoColor=white) ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=square&logo=Spring&logoColor=white) ![Eureka](https://img.shields.io/badge/Eureka-6DB33F?style=square&logo=Spring&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%F05032.svg?style=square&logo=git&logoColor=white) 
+<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=square&logo=docker&logoColor=white"> 
+![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=square&logo=AWS&logoColor=white) 
+![Git Action](https://img.shields.io/badge/Git%20Action-2088ff.svg?style=square&logo=githubactions&logoColor=white) 
+![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=square&logo=Spring&logoColor=white) 
+![Eureka](https://img.shields.io/badge/Eureka-6DB33F?style=square&logo=Spring&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=square&logo=Terraform&logoColor=white)
 
 
 ## Projects
